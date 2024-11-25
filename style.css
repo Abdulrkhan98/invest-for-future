@@ -1,0 +1,737 @@
+
+
+
+.container96{
+  display: flex;
+}
+
+.containerark{
+  height: 250px;
+  width: 220px;
+  background-color: white;
+  color: black;
+  margin-top: 100px;
+  margin-right: 50px;
+}
+
+.box101{
+  /* background-color: blue; */
+  color: white;
+  /* border: 2px solid blue; */
+  border-radius: 20px;
+  height: 50px;
+  width: 180px;
+  align-items: center;
+  /* margin-bottom: 25px; */
+  margin-left: 200px;
+  z-index: 1;
+  /* display: flex; */
+  /* text-align: center; */
+}
+
+.balance{
+  border: 2px solid blue;
+  border-radius: 30px ;
+  color: white;
+  background-color: blue;
+  /* gap: 10px; */
+}
+
+.box11{
+  /* margin-right: 100px; */
+}
+
+.bill{
+  gap: 10px;
+  padding: 10px;
+  font: 15px;
+  font-weight: bold;
+}
+
+.today{
+ font-size: 12px;
+ margin-left: 13px;
+ font-weight: lighter;
+}
+
+.ark{
+  position: relative;
+  bottom: 13px;
+  margin-left: 48px;
+  font-size: 13px;
+  font-weight: bolder;
+  gap: 15px;
+}
+
+.credit{
+  margin-bottom: 10px;
+  gap: 10px;
+  /* border: 2px solid blue; */
+  /* border-radius: 30px; */
+}
+
+.recent{
+   margin-left: 10px;
+   justify-content: space-between;
+}
+
+.box98{
+  height: 350px;
+  width: 300px;
+  background-image: url("/share98.jpg");
+  margin-left: 200px;
+  background-size: cover;
+}
+
+.future{
+  height: 30px;
+  width: 140px;
+  color: black;
+  background-color: white;
+  margin-left: 145px;
+  /* margin-top: 20px; */
+}
+
+.box87{
+  margin-left: 200px;
+}
+
+.button98{
+  border: 2px solid blue;
+  border-radius: 20px;
+  padding: 11px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.inter{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.high{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.inner{
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+
+
+.container90{
+  height: 500px;
+  background-color:gainsboro;
+  
+}
+
+.most{
+ position: absolute;
+ margin-top: 20px;
+ margin-left: 90px;
+}
+
+.btnrk{
+ margin-left: 865px;
+ font-size: 8px;
+ padding: 8px 10px;
+ border-radius: 18px;
+ border: 1px solid black;
+ background-color: unset;
+} 
+
+.box15{
+  height: 380px;
+  width: 350px;
+  background-color:white;
+  border-radius: 5px;
+}
+.container12{
+  display: flex;
+  gap: 40px;
+  margin-top: 18px;
+}
+.img3{
+  height: 160px;
+  width: 330px;
+  margin: 11px 11px;
+  border-radius: 5px;
+  
+}
+
+.box16{
+  height: 17px;
+  width: 60px;
+  background-color:white;
+  position: absolute;
+  margin-top: 22px;
+  margin-left: 22px;
+  border-radius: 15px;
+}
+.days{
+  font-size: 11px;
+  position:relative;
+  bottom: 9px;
+  left: 3px;   
+}
+
+.box17{
+  height: 30px;
+  width: 60px;
+  background-color:black;
+  position: absolute;
+ margin-top: 150px;
+ margin-left: 195PX;
+ border-radius: 5px;
+}
+
+.pitch{
+  position: relative;
+  bottom: 4px;
+  font-size: 12px;
+  margin-left: 12px;
+  color: white;
+}
+
+.phoenix{
+  font-size: 22px;
+  font-weight: bolder;
+  position: relative;
+  bottom: 16px;
+  left: 10px;
+}
+
+.paragraph{
+  font-size: 15px;
+  position: relative;
+  bottom: 25px;
+  left: 10px;
+}
+
+.box18{
+  height: 22px;
+  width: 50px;
+  background-color: blueviolet;
+  border-radius: 30px;
+ 
+}
+.box19{
+  height: 18px;
+  width: 72px;
+  background-color:lightgreen;
+  border-radius: 30px;
+}
+.box20{
+  height: 18px;
+  width: 40px;
+  background-color:darkblue;
+  border-radius: 50%;
+}
+.boxes{
+  display: flex;
+  gap: 5px;
+  margin-left: 10px;
+  position: relative;
+  bottom: 25px;
+}
+
+.primary{
+  font-size: 9px;
+  position: relative;
+  padding-right: 5px;
+  bottom: 3px;
+  left: 10px;
+} 
+
+.seis{
+  font-size: 9px;
+  position: relative;
+  padding-right:5px ;
+  bottom: 4px;
+  left: 9px;
+  height: 5px;
+  width: 7px;
+}
+.nz{
+  font-size: 15px;
+}
+
+.raised{
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+.dyas{
+  font-size: 12px;
+  margin-left: 205px;
+} 
+
+.container14{
+  position: relative;
+  bottom: 15px;
+}
+
+.range{
+  padding-left: 195px;
+  margin-left: 10px;
+  background-color: blue;
+  color:blue;
+}
+
+.box21{
+  height: 35px;
+  width: 160px;
+  background-color:unset;
+  position: relative;
+  bottom: 20px;
+  margin-left: 10px;
+  border-right: 1px solid black;
+}
+
+.box22{
+  height: 35px;
+  width: 160px;
+  background-color:unset;
+  position: relative;
+  bottom: 20px;
+  margin-left: 10px;
+}
+
+.container15{
+  display: flex;
+}
+
+.valuation{
+  font-size: 10px;
+  margin-left: 2px;
+}
+
+.a1{
+  font-size: 8px;
+ font-weight: bolder;
+ position: relative;
+ margin-left: 2px;
+ bottom: 5px;
+}
+
+.valuation1{
+  font-size: 10px;
+  margin-left: 22px;
+}
+
+.onetwo{
+  color: blueviolet;
+}
+
+.a2{
+  font-size: 8px;
+  font-weight: bolder;
+  position: relative;
+  margin-left: 22px;
+  bottom: 5px
+}
+
+
+
+.container33{
+  height: 500px;
+  background-color:white;
+  display: flex;
+  gap: 50px;
+} 
+
+.box23{
+  height: 400px;
+  width: 320px;
+  background-color:unset;
+  margin-left: 255px;
+  margin-top: 60px;
+}
+
+.btnCreateAccount{
+ border: 2px solid blue;
+ border-radius: 20px;
+ padding: 12px;
+ background-color: blue;
+ color: white;
+}
+
+
+.box82{
+ height: 120px;
+ width: 220px;
+ background-color: white;
+ margin-top: 320px;
+ font-weight: bold;
+}
+
+.six{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.the{
+  height: 30px;
+  width: 150px;
+  background-color: white;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.box24{
+  height: 470px;
+  width: 410px;
+  background-image: url("/Bill\ Gates.jpg");
+  margin-top: 90px;
+  background-size: cover;
+}
+
+.texted{
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.top{
+  color: black;
+  background-color: white;
+  margin-top: 130px;
+  height: 100px;
+  margin-left: 70px;
+}
+
+.arrow{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 40px;
+}
+
+.arrow1{
+  height: 18px;
+  width: 18px;
+  background-color:gray;
+  border-radius: 60%;  
+  color: black;
+  text-align: center;
+  align-items: center;
+}
+
+.arrow2{
+  height: 18px;
+  width: 18px;
+  background-color: blueviolet;
+  color: white;
+  border-radius: 60%; 
+  bottom:  60px;
+}
+
+.boxza{
+  height: 200px;
+  width: 370px;
+  background-color:white;
+  border: 1px solid black;
+  border-radius: 10px; 
+  margin-top: 40px;
+}
+
+.boxak{
+  height: 200px;
+  width: 370px;
+  background-color:white;
+  margin-left: 70px;
+  border-radius: 10px;
+  border: 2px solid beige;
+}
+
+.containerbox{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 30px;
+  background-color: white;
+  position: relative;
+  bottom: 63px;
+}
+
+.img101{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-left: 13px;
+}
+
+.abdul{
+  position: relative;
+  bottom: 56px;
+  font-size: 20px;
+  left: 60px;
+  width: 0px;
+}
+.Kayak{
+  position: relative;
+  bottom: 70px;
+  left:60px;
+  font-size: 8px;
+  width: 60px;
+}
+
+.star{
+  position: relative;
+  bottom: 75px; 
+  left:60px;
+  font-size: 13px;
+  color: yellow;
+}
+
+.twitter{
+  margin-left: 205px;
+  position: relative;
+  bottom: 12px;
+  font-size: 15px;
+  color: blue;
+}
+
+.incredibly{
+  position: relative;
+  bottom: 90px;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.march{
+  position: relative;
+  bottom: 86px;
+  left: 10px;
+  font-size: 14px;
+}
+
+.container111{
+  height: 500px;
+  background-color: gainsboro;
+}
+
+.boxabc{
+  height: 430px;
+  background-color:unset;
+  margin-top: 10px;
+}
+
+
+ .containerhjk{
+  height: 450px;
+  background-color:gainsboro;
+  position: relative;
+  bottom: 62px;
+  display: flex;
+}
+.bocabc{
+  height: 430px;
+  background-color:unset;
+  margin-top: 10px;
+  /* margin-right: 300px; */
+}
+.img7{
+  height: 430px;
+  width: 420px; 
+  border-radius: 10px;
+  margin-left: 300px;
+}
+.newaccount{
+  padding-top: 5px;
+  padding-left: 30px;
+}
+.investment{
+  margin-left:30px ;
+  position: relative;
+  bottom: 20px;
+  font-size: 13px;
+}
+.Investor{
+  border-radius: 25px;
+  padding: 5px 10px;
+  background-color:unset;
+  border: 1px solid white;
+  position: relative;
+  bottom: 10px;
+  
+}
+.Startup{
+  margin-left: 30px;
+  border-radius: 25px;
+  padding: 5px 10px;
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  font-size: 13px;
+  position: relative;
+  bottom: 10px;
+}
+.containerabcd{
+  display: flex;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.boxxx{
+  height: 60px;
+  width: 160px;
+  background-color:unset;
+}
+.input{
+  font-size: 12px;
+  margin-top: 3px;
+  border-radius: 5PX;
+  border: 1px solid black;
+  padding: 5px;
+}
+#label{
+  font-size: 5px;
+}
+.input1{
+  padding: 5px 77px;
+  margin-left: 30px;
+  margin-top: 5px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+.email{
+  margin-left: 30px;
+}
+.creataccount{
+  margin-left: 30px;
+  font-size: 10px;
+  padding: 7px 10px;
+  border-radius: 15px; 
+  background-color: blue;
+  border: 1px solid blue;
+  color: white;
+}
+
+
+
+.boxget{
+  height: 250px;
+  width: 800px;
+  background-color: blue ;
+  margin-left: 255px;
+  position:relative;
+  bottom: 120px;
+  border-radius: 10px;
+}
+.boxget2{
+  height: 370px;
+  background-color: black;
+  margin-top: 80px;
+ 
+}
+.boxrty{
+  height: 135px;
+  width: 180px;
+  background-color:unset;
+  margin-left: 260px;
+}
+
+.boxark1{
+  height: 135px;
+  width: 100px;
+  background-color:unset;
+  gap: 40px;
+ 
+}
+.container64{
+  margin-left: 230px;
+  display: flex;
+}
+.containervbg{
+  display: flex;
+  position:relative;
+  bottom: 145px;   
+}
+.capital{
+  font-size: 22px;
+  color: white;
+}
+.startups{
+  font-size: 13px;
+  color: white;
+}
+.container765{
+  gap: 20px;
+  padding: 10px;
+  /* margin-left: 5px; */
+}
+.investor{
+  font-size: 14px;
+  color: white;
+  /* margin: 15px; */
+}
+.privacy{
+  font-size: 12px;
+  color: white;
+  line-height: 16px;
+  margin: 15px;
+}
+.twitter2{
+  background-color: blue;
+  color: white;
+  
+}
+.Facebook{
+  background-color:black;
+  color: white;
+}
+.boxget{
+color: white;
+}
+.updates12{
+ margin-left: 233px;
+  padding-top: 60px;
+}
+.campaign{
+  margin-left: 155px;
+  position: relative;
+  bottom: 10px;
+}
+.opportunities{
+  margin-left: 283px;
+  position: relative;
+  bottom: 24px;
+}
+
+.btnSubscribe{
+  margin-left: 268px;
+  font-size: 10px;
+  padding: 7px 90px;
+   border-radius: 15px; 
+  background-color: white;
+  border: 1px solid white;
+  color: black;
+  position: relative;
+  bottom: 13px;
+} 
+
+.box098{
+  height: 7px;
+  width: 7px;
+  background-color:gray;
+  border-radius: 50px;
+}
+.box099{
+  height: 7px;
+  width: 7px;
+  background-color: blue;
+  border-radius: 50px;
+}
+.cotainer098{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding-top: 415px;
+}
+
+
